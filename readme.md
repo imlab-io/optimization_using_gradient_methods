@@ -2,6 +2,7 @@
 layout: post
 title: Gradyan Yöntemleri ile Optimizasyon
 slug: optimization-using-gradient-methods
+date: "2020-04-08"
 author: Bahri ABACI
 categories:
 - Makine Öğrenmesi
